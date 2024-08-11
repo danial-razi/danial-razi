@@ -1,16 +1,21 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://learnclasico.com/img/github-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://learnclasico.com/img/github-light.webp">
+  <img alt=" ">
+</picture>
 
-<!--
-**danial-razi/danial-razi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi, I'm Danial. I love mathematics and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages |
+|-----:|---------------|
+|     1| Rust          |
+|     2| C#            |
+|     3| JavaScript    |
+
+
+---
+> Words can be like X-rays, if you use them properly — they'll go through anything.
+
+— Aldous Huxley

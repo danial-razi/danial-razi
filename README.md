@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://learnclasico.com/img/github-dark.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://learnclasico.com/img/github-light.webp">
-  <img alt="Danial Razi banner">
-</picture>
 
 # سلام! من دانیال رازی هستم 👋
 

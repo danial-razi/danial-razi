@@ -1,4 +1,3 @@
-https://meet.google.com/wgd-nykv-euz
 
 # سلام! من دانیال رازی هستم 👋
 

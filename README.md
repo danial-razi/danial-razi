@@ -1,37 +1,41 @@
-https://meet.google.com/oea-jfcn-uow
+# Hi there, I'm Danial Razi 👋
 
-# سلام! من دانیال رازی هستم 👋
+I'm passionate about mathematics and software development. I enjoy turning complex ideas into simple, practical solutions and building fast, reliable tools.
 
-ریاضیات و برنامه‌نویسی رو دوست دارم و تلاش می‌کنم چیزهای پیچیده رو ساده و قابل‌استفاده کنم.
-بیشتر با <bdi>Rust</bdi>، <bdi>Csharp</bdi> و JavaScript کار می‌کنم و ازشون برای ساخت ابزارهای کاربردی و سریع استفاده می‌کنم.
+## 🚀 About Me
 
-## مهارت‌ها و علایق
+* 💻 Mainly working with **Rust**, **C#**, and **JavaScript**
+* ⚙️ Interested in **Systems Programming**, **API Design**, and **Developer Tools**
+* 🧠 Passionate about **Algorithms**, **Performance Optimization**, and **Software Architecture**
+* 🎯 Focused on creating **minimal, efficient, and practical products**
 
-- زبان‌ها: <bdi>Rust</bdi>، <bdi>C#</bdi>، JavaScript
-- حوزه‌ها: برنامه‌نویسی سیستمی، طراحی API، ابزارهای توسعه‌دهنده
-- علاقه‌مندی‌ها: الگوریتم‌ها، بهینه‌سازی عملکرد، ساخت محصولات مینیمال و کاربردی
+## 🌱 Currently Learning & Building
 
-## آنچه این روزها انجام می‌دهم
+* Advanced Rust patterns and ecosystem
+* System design and concurrency concepts
+* Code quality improvements and project documentation
+* Contributions to the **unikode** project
 
-- تمرکز بیشتر روی Rust و الگوهای طراحی مرتبط
-- بهبود کیفیت کد و مستندسازی پروژه‌ها
-- یادگیری عمیق‌تر مفاهیم سیستم و هم‌زمانی
-- مشارکت در پروژه کدآموز
+## 🛠️ Tech Stack
 
-## زبان‌های مورد علاقه (رتبه‌بندی شخصی)
+```text
+Rust • C# • JavaScript
+```
 
-| Rank | Languages |
-|-----:|---------------|
-|     1| Rust          |
-|     2| C#            |
-|     3| JavaScript    |
+## 📊 Favorite Languages
 
-## همکاری و ارتباط
+| Rank | Language   |
+| ---- | ---------- |
+| 🥇   | Rust       |
+| 🥈   | C#         |
+| 🥉   | JavaScript |
 
-- اگر ایده‌ای دارید یا می‌خواهید با هم کاری انجام بدیم، یک Issue باز کنید یا Pull Request بفرستید.
-- بازخوردها و پیشنهادها همیشه خوشحال‌کننده‌اند!
+## 🤝 Collaboration
 
----
-> Words can be like X-rays, if you use them properly — they'll go through anything.
+If you have an idea, a project, or an interesting challenge, feel free to open an Issue or submit a Pull Request.
 
-— Aldous Huxley
+Feedback, suggestions, and constructive discussions are always welcome.
+
+> "Words can be like X-rays; if you use them properly, they'll go through anything."
+>
+> — Aldous Huxley

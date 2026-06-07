@@ -17,7 +17,7 @@ I am a software developer passionate about systems programming, architecture, an
 
 *   🦀 Advanced Rust patterns, concurrency, and memory management.
 *   🏛️ Scalable system design and low-level optimizations.
-*   📚 Open-source contributions, currently focused on the **CodeAmooz** project.
+*   📚 currently focused on the **unikode** project.
 
 ---
 

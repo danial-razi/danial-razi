@@ -1,41 +1,42 @@
 # Hi there, I'm Danial Razi 👋
 
-I'm passionate about mathematics and software development. I enjoy turning complex ideas into simple, practical solutions and building fast, reliable tools.
+I am a software developer passionate about systems programming, architecture, and performance optimization. I enjoy transforming complex algorithmic challenges into minimal, efficient, and reliable software solutions.
 
-## 🚀 About Me
+---
 
-* 💻 Mainly working with **Rust**, **C#**, and **JavaScript**
-* ⚙️ Interested in **Systems Programming**, **API Design**, and **Developer Tools**
-* 🧠 Passionate about **Algorithms**, **Performance Optimization**, and **Software Architecture**
-* 🎯 Focused on creating **minimal, efficient, and practical products**
+### 🚀 About Me
 
-## 🌱 Currently Learning & Building
+*   💻 **Main Focus:** Crafting high-performance applications using **Rust**, **C#**, and **JavaScript**.
+*   ⚙️ **Areas of Interest:** Systems Programming, API Design, Microservices, and Developer Tools.
+*   🧠 **Core Expertise:** Software Architecture, Concurrent Programming, and Algorithm Optimization.
+*   🎯 **Philosophy:** Building clean, maintainable, and practical tools that solve real-world problems.
 
-* Advanced Rust patterns and ecosystem
-* System design and concurrency concepts
-* Code quality improvements and project documentation
-* Contributions to the **unikode** project
+---
 
-## 🛠️ Tech Stack
+### 🌱 Currently Learning & Building
 
-```text
-Rust • C# • JavaScript
-```
+*   🦀 Advanced Rust patterns, concurrency, and memory management.
+*   🏛️ Scalable system design and low-level optimizations.
+*   📚 Open-source contributions, currently focused on the **CodeAmooz** project.
 
-## 📊 Favorite Languages
+---
 
-| Rank | Language   |
-| ---- | ---------- |
-| 🥇   | Rust       |
-| 🥈   | C#         |
-| 🥉   | JavaScript |
+### 🛠️ Tech Stack & Ecosystem
 
-## 🤝 Collaboration
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Rust, C#, JavaScript (TypeScript/Node.js) |
+| **Interests** | Systems Programming, Backend Architecture, API Design |
 
-If you have an idea, a project, or an interesting challenge, feel free to open an Issue or submit a Pull Request.
+---
 
-Feedback, suggestions, and constructive discussions are always welcome.
+### 🤝 Let's Connect & Collaborate
 
-> "Words can be like X-rays; if you use them properly, they'll go through anything."
->
-> — Aldous Huxley
+I'm always open to interesting projects, architectural discussions, or technical challenges. 
+*   💡 Have an idea or feedback? Feel free to open an **Issue** or submit a **Pull Request**.
+*   💬 Constructive discussions and code reviews are always welcome!
+
+---
+
+> "Words can be like X-rays; if you use them properly, they'll go through anything."  
+> — *Aldous Huxley*

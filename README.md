@@ -1,32 +1,27 @@
-# Hi there, I'm Danial Razi 👋
+# Hi, I'm Danial Razi 👋
 
-I am a software developer passionate about systems programming, architecture, and performance optimization. I enjoy transforming complex algorithmic challenges into minimal, efficient, and reliable software solutions.
+I'm a **Full-Stack Developer** with a strong interest in **backend development**, **algorithm design**, and building **minimal, practical, and reliable tools**.
+
+I enjoy solving problems, designing clean solutions, and turning ideas into useful products.
+
+### Tech Stack
+
+- **Rust**
+- **JavaScript**
+- **Python**
+
+### Currently
+
+Most of my time is currently focused on building and developing **[unikode.ir](https://unikode.ir)**.
+
+### Interests
+
+`Backend Development` · `Algorithms` · `Problem Solving` · `Developer Tools` · `Minimal Software`
 
 ---
 
-### 🚀 About Me
-
-*   💻 **Main Focus:** Crafting high-performance applications using **Rust**, **C#**, and **JavaScript**.
-*   ⚙️ **Areas of Interest:** Systems Programming, API Design, Microservices, and Developer Tools.
-*   🧠 **Core Expertise:** Software Architecture, Concurrent Programming, and Algorithm Optimization.
-*   🎯 **Philosophy:** Building clean, maintainable, and practical tools that solve real-world problems.
-
----
-
-### 🌱 Currently Learning & Building
-
-*   🦀 Advanced Rust patterns, concurrency, and memory management.
-*   🏛️ Scalable system design and low-level optimizations.
-*   📚 currently focused on the **unikode** project.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Rust, C#, JavaScript (TypeScript/Node.js) |
-| **Interests** | Systems Programming, Backend Architecture, API Design |
+**Danial Razi**  
+Full-Stack Developer
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi, I'm Danial Razi 👋
+# Hi, I'm Danial Razi
 
 I'm a **Full-Stack Developer** with a strong interest in **backend development**, **algorithm design**, and building **minimal, practical, and reliable tools**.
 
